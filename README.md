@@ -11,8 +11,6 @@ a boilerplate.. Yet. </p>
     <li>Imagemin does not work on Unix-based systems</li>
     <li>Server is not programmed to send back minified images</li>
     <li>Server is only programmed to send back a gzip of the main modern-js-file</li>
-    <li>Server is only programmed to send back a gzip of the main modern-js-file</li>
-    <li>Server is only programmed to send back a gzip of the modern-js-file</li>
   </ul>
 <br>
 
