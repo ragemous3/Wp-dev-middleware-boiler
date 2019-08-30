@@ -3,7 +3,7 @@
 <p>Since I just extracted to code from another project I've worked on. It's not really
 a boilerplate.. Yet. </p>
 <br>
-<p>Current Issues</p>
+<p>Current Issues and some info</p>
   <ul>
     <li>Lots of packages(?) like react and so on. RESTORE ORDER!</li>
     <li>Workbox and webpack-helpers has been commented out</li>
