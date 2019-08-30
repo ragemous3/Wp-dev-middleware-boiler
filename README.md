@@ -1,6 +1,6 @@
 <h1>Wepback dev-middleware boiler</h1>
 
-<p>Since I just extracted to code from another project. It's not really
+<p>Since I just extracted to code from another project I've worked on. It's not really
 a boilerplate.. Yet. </p>
 <br>
 <p>Current Issues</p>
